@@ -10,3 +10,6 @@ Este mensaje solo se mostrara en la rama header
 
 Como borramos muchos commits en master, en header tenemos reslpando de la linea 4
 las ramas entonces haremos merge para obtener lo de header 
+
+
+vamos a modificar master para comprobar algunas cosas
