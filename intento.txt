@@ -12,4 +12,7 @@ Como borramos muchos commits en master, en header tenemos reslpando de la linea 
 las ramas entonces haremos merge para obtener lo de header 
 
 
-vamos a modificar master para comprobar algunas cosas
+vamos a modificar master para comprobar algunas cosas(modificado en master)
+
+soy un texto que solo deberia existir en master
+
