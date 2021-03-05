@@ -6,7 +6,7 @@ por tercera vez una linea tres
 
 apartir de aqui haremos algunas ramas
 
-Este mensaje solo se mostrara en la rama header 
+Este mensaje solo se mostrara en la rama header (modifique esta linea)
 
 Como borramos muchos commits en master, en header tenemos reslpando de la linea 4
 las ramas entonces haremos merge para obtener lo de header 
